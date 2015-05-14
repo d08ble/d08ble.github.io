@@ -6,7 +6,7 @@ title: d08ble Home
 
 LiveComment is very simple:
 
-Usage sample:
+#### Usage sample:
 
 {% highlight javascript %}
 // File: app.jsx
@@ -19,3 +19,21 @@ import Router from "react-router";
 
 // My code block - import section ]
 {% endhighlight %}
+
+#### Install
+
+{% highlight javascript %}
+npm install livecomment --save
+{% endhighlight %}
+
+#### Run node.js
+
+{% highlight javascript %}
+$ node_modules/livecomment/bin/livecomment
+{% endhighlight %}
+
+#### View in browser
+{% highlight javascript %}
+open http://localhost:3070/
+{% endhighlight %}
+
