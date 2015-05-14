@@ -6,7 +6,7 @@ title: d08ble Home
 <br>
 LiveComment is very simple:
 
-#### Usage sample:
+#### Live comment usage sample:
 
 {% highlight javascript %}
 // File: app.jsx
@@ -24,6 +24,29 @@ import Router from "react-router";
 
 {% highlight javascript %}
 npm install livecomment --save
+{% endhighlight %}
+
+#### Configure paths
+
+{% highlight javascript %}
+var LiveComment = require('../livecomment')
+
+var options = {
+    debug: 1,
+    common: {
+      ignore: [
+        '.git',
+        '.git/**',
+        'node_modules',
+        'node_modules/**',
+        'node_modules/**/.*',
+        'node_modules/**/.*/**'
+      ]
+    },
+    paths: ['/path/to/file', ...]
+}
+
+var livecomment = new LiveComment(options)
 {% endhighlight %}
 
 #### Run node.js
