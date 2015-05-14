@@ -36,11 +36,6 @@ var options = {
     common: {
       ignore: [
         '.git',
-        '.git/**',
-        'node_modules',
-        'node_modules/**',
-        'node_modules/**/.*',
-        'node_modules/**/.*/**'
       ]
     },
     paths: ['/path/to/file', ...]
