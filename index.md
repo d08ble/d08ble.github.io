@@ -2,9 +2,9 @@
 layout: home
 title: d08ble Home
 ---
-### [LiveComment 2.10 - Node.js library for code comments](https://github.com/d08ble/livecomment)
+### [LiveComment 2.10 - Node.js library for source code comments](https://github.com/d08ble/livecomment)
 <br>
-LiveComment is very simple:
+LiveComment is very simple.
 
 #### Live comment usage sample:
 
@@ -39,7 +39,7 @@ open http://localhost:3070/
 
 <br>
 
-##### Howto Configure paths
+##### Howto Configure paths to sources
 
 {% highlight javascript %}
 var LiveComment = require('../livecomment')
