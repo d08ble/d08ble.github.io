@@ -8,7 +8,7 @@ LiveComment is very simple:
 
 Usage sample:
 ```javascript
-var a =1;
+var a =1222;
 ```
 
 {% highlight javascript %}
