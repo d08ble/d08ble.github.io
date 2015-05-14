@@ -39,7 +39,7 @@ open http://localhost:3070/
 
 <br>
 
-##### Howto Configure paths to sources
+##### Configure paths to sources
 
 {% highlight javascript %}
 var LiveComment = require('../livecomment')
