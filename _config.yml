@@ -5,6 +5,7 @@ defaults:
     values:
       layout: "page"
 pygments: true
+highlighter: pygments
 #markdown: kramdown
 #highlighter: rouge
 #lsi:         false
