@@ -2,4 +2,4 @@
 layout: home
 title: d08ble Home
 ---
-https://d08ble.github.io/livecomment
+[LiveComment - Node.js library for code comments](https://d08ble.github.io/livecomment)
