@@ -1,0 +1,6 @@
+title: "Node.js library for code comments LiveComment // ["
+base_url: "/d08ble.github.io" # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
+defaults:
+  - scope: {path: ""}
+    values:
+      layout: "page"
