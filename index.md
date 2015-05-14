@@ -26,7 +26,20 @@ import Router from "react-router";
 npm install livecomment --save
 {% endhighlight %}
 
-#### Configure paths
+#### Run node.js
+
+{% highlight javascript %}
+$ node_modules/livecomment/bin/livecomment
+{% endhighlight %}
+
+#### View in browser
+{% highlight javascript %}
+open http://localhost:3070/
+{% endhighlight %}
+
+<br>
+
+##### Howto Configure paths
 
 {% highlight javascript %}
 var LiveComment = require('../livecomment')
@@ -47,16 +60,5 @@ var options = {
 }
 
 var livecomment = new LiveComment(options)
-{% endhighlight %}
-
-#### Run node.js
-
-{% highlight javascript %}
-$ node_modules/livecomment/bin/livecomment
-{% endhighlight %}
-
-#### View in browser
-{% highlight javascript %}
-open http://localhost:3070/
 {% endhighlight %}
 
