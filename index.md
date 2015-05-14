@@ -7,13 +7,6 @@ title: d08ble Home
 LiveComment is very simple:
 
 Usage sample:
-```javascript
-var a =1222;
-```
-
-```python
-print("hello, world")
-```
 
 {% highlight javascript %}
 // File: app.jsx
