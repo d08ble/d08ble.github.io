@@ -4,4 +4,5 @@ defaults:
   - scope: {path: ""}
     values:
       layout: "page"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
