@@ -11,6 +11,10 @@ Usage sample:
 var a =1222;
 ```
 
+```python
+print("hello, world")
+```
+
 {% highlight javascript %}
 // File: app.jsx
 
