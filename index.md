@@ -7,5 +7,5 @@ title: d08ble Home
 
 ```javascript
 123
-a=1;
+a=1;123
 ```
