@@ -9,3 +9,9 @@ title: d08ble Home
 123
 a=1;123
 ```
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
