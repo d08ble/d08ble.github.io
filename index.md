@@ -2,7 +2,7 @@
 layout: home
 title: d08ble Home
 ---
-### [LiveComment - Node.js library for code comments](https://github.com/d08ble/livecomment)
+### [LiveComment 2.10 - Node.js library for code comments](https://github.com/d08ble/livecomment)
 
 LiveComment is very simple:
 
