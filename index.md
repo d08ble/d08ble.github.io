@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Home
+title: d08ble Home
 ---
-https://www.npmjs.com/package/livecomment
+https://d08ble.github.io/livecomment
