@@ -7,6 +7,9 @@ title: d08ble Home
 LiveComment is very simple:
 
 Usage sample:
+```javascript
+var a =1;
+```
 
 {% highlight javascript %}
 // File: app.jsx
