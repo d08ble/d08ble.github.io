@@ -10,7 +10,7 @@ title: d08ble Home
 a=1;123
 ```
 
-{% highlight ruby %}
+{% highlight javascript %}
 def foo
   puts 'foo'
 end
