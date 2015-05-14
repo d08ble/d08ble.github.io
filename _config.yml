@@ -4,6 +4,7 @@ defaults:
   - scope: {path: ""}
     values:
       layout: "page"
+pygments: true
 #markdown: kramdown
 #highlighter: rouge
 #lsi:         false
