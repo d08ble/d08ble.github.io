@@ -3,9 +3,8 @@ layout: home
 title: d08ble Home
 ---
 [LiveComment - Node.js library for code comments](https://d08ble.github.com/livecomment)
-<a href="/">qqq</a>
 
-LiveComment is very simple:
+#LiveComment is very simple:
 <a href="/">qqq</a>
 Usage sample:
 ```javascript
