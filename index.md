@@ -4,8 +4,6 @@ title: d08ble Home
 ---
 [LiveComment - Node.js library for code comments](https://d08ble.github.com/livecomment)
 
-Node.js library for code comments LiveComment 
-
 LiveComment is very simple:
 <a href="/">qqq</a>
 Usage sample:
